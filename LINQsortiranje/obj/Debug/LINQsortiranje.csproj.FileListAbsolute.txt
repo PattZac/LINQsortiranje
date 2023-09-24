@@ -1,0 +1,8 @@
+C:\Users\unkno\source\repos\LINQsortiranje\LINQsortiranje\bin\Debug\LINQsortiranje.exe.config
+C:\Users\unkno\source\repos\LINQsortiranje\LINQsortiranje\bin\Debug\LINQsortiranje.exe
+C:\Users\unkno\source\repos\LINQsortiranje\LINQsortiranje\bin\Debug\LINQsortiranje.pdb
+C:\Users\unkno\source\repos\LINQsortiranje\LINQsortiranje\obj\Debug\LINQsortiranje.csproj.AssemblyReference.cache
+C:\Users\unkno\source\repos\LINQsortiranje\LINQsortiranje\obj\Debug\LINQsortiranje.csproj.SuggestedBindingRedirects.cache
+C:\Users\unkno\source\repos\LINQsortiranje\LINQsortiranje\obj\Debug\LINQsortiranje.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\LINQsortiranje\LINQsortiranje\obj\Debug\LINQsortiranje.exe
+C:\Users\unkno\source\repos\LINQsortiranje\LINQsortiranje\obj\Debug\LINQsortiranje.pdb
